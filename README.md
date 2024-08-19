@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src = R1.png height = "300" width = "100%">
 
-<!--
-**sadaru-hansaka/sadaru-hansaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sadaru Hansaka</h1>
+<h3 align="center">Passionate IT Student | Exploring the World for Boundless knowledge</h3>
 
-Here are some ideas to get you started:
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🚀 I'm from **Galle, Sri Lanka**
+  
+- 🌱 I’m currently learning **React Js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 I’m an Undergraduate at **IIT**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **sandaruhansaka0828@gmail**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="#">
+
+  
+  </td>
+</tr>
+</table>
+
+
