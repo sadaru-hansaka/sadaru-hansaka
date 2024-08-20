@@ -7,24 +7,26 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🚀 I'm from **Galle, Sri Lanka**
+- 🚀 I'm from **Galle, Sri Lanka**.
   
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js**.
 
-- 🧑‍🎓 I’m an Undergraduate at **IIT**
+- 🧑‍🎓 I’m an Undergraduate at **IIT**.
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**.
 
 - 📫 How to reach me **sandaruhansaka0828@gmail**
 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="#">
+  <img align="center" alt="Coding" width="450" src="img2.gif">
 
   
   </td>
 </tr>
 </table>
+
+<h1 align="center">Tech Stack</h1>
 
 
