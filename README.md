@@ -9,7 +9,7 @@
   
 - 🚀 I'm from **Galle, Sri Lanka**.
   
-- 🌱 I’m currently learning **React Js**.
+- 🌱 I’m currently learning **Spring Boot**.
 
 - 🧑‍🎓 I’m an Undergraduate at **IIT**.
 
@@ -33,7 +33,6 @@
   <img src="Images/Python-Dark.svg" width='50'>
   <img src="Images/JavaScript.svg" width='50'>
   <img src="Images/React-Dark.svg" width='50'>
-  <img src="Images/NodeJS-Dark.svg" width='50'>
   <img src="Images/PHP-Dark.svg" width='50'>
   <img src="Images/MySQL-Dark.svg" width='50'>
   <img src="Images/Git.svg" width='50'>
