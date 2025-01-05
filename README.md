@@ -9,13 +9,13 @@
   
 - 🚀 I'm from **Galle, Sri Lanka**.
   
-- 🌱 I’m currently learning **Spring Boot**.
+- 🌱 I’m currently learning **Flutter**.
 
 - 🧑‍🎓 I’m an Undergraduate at **IIT**.
 
 - 💬 Ask me about **Java**.
 
-- 📫 How to reach me **sandaruhansaka0828@gmail**
+- 📫 How to reach me **sadaru.hansaka2005@gmail.com**
 
 </td>
 <td width="50%" align="center">
