@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sadaru.hansaka2005@gmail.com**
 
-- 📌 My Portfolio: [your-portfolio-link.com](https://sadaru-hansaka.github.io/Portofolio/)
+- 📌 My Portfolio: [https://sadaru-hansaka.github.io/Portofolio/](https://sadaru-hansaka.github.io/Portofolio/)
 
 
 </td>
