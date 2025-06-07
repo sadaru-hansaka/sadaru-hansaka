@@ -9,7 +9,7 @@
   
 - 🚀 I'm from **Galle, Sri Lanka**.
   
-- 🌱 I’m currently learning **Flutter**.
+- 🌱 I’m currently learning **Node.js**.
 
 - 🧑‍🎓 I’m an Undergraduate at **IIT**.
 
